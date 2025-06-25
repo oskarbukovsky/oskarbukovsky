@@ -1,5 +1,11 @@
-## Hi there 👋
 ![github-header-image](https://github.com/user-attachments/assets/4ad72b9b-a8a7-4be2-afbc-9355b979b6e5)
+### Github stats
+![languages](https://github-readme-stats.vercel.app/api/top-langs?username=oskarbukovsky&show_icons=true&locale=en&layout=compact)
+### Trophies
+![profile-badges](https://github-profile-trophy.vercel.app/?username=oskarbukovsky&rank=-?&no-bg=true&theme=onedark&margin-w=10)
+### Support
+[![ko-fi-image](https://github.com/user-attachments/assets/65aca8c5-829a-4ec7-9e19-9f53cf4fa455)](https://ko-fi.com/juunikorn)
+
 
 <!--
 **oskarbukovsky/oskarbukovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
