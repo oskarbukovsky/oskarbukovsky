@@ -1,4 +1,5 @@
 ## Hi there 👋
+![github-header-image](https://github.com/user-attachments/assets/4ad72b9b-a8a7-4be2-afbc-9355b979b6e5)
 
 <!--
 **oskarbukovsky/oskarbukovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
