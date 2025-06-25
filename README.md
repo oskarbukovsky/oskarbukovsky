@@ -26,6 +26,7 @@
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Windows-Light.svg" alt="Windows" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://static.wikia.nocookie.net/logopedia/images/9/9a/Visual_Studio_Code_1.35_icon.svg/revision/latest?cb=20231105010051" alt="VSCode" height="50" /></a>
 <a href="https://www.gimp.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png" alt="Gimp" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 
 
 ### Trophies
