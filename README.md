@@ -15,7 +15,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bash-Light.svg" alt="Bash" height="50" /></a>
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
-<a href="https://www.lua.org/about.html"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" alt="Lua" height="50" /></a>
+<a href="https://www.lua.org/about.html"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" height="50" /></a>
 
 ### Software
 
@@ -25,7 +25,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Windows-Light.svg" alt="Windows" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://static.wikia.nocookie.net/logopedia/images/9/9a/Visual_Studio_Code_1.35_icon.svg/revision/latest?cb=20231105010051" alt="VSCode" height="50" /></a>
-<a href="https://www.gimp.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/2048px-The_GIMP_icon_-_gnome.svg.png" alt="Gimp" height="50" /></a>
+<a href="https://www.gimp.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_GIMP_icon_-_v3.0.svg/250px-The_GIMP_icon_-_v3.0.svg.png" alt="Gimp" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://www.portainer.io/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_200,h_200/https://api.charmhub.io/api/v1/media/download/charm_Owpj9CsDEMZwVtup3ZTxxs0FtyvDqb2o_icon_5cef79c2d18f67464f39c8f2cf2d7ebb815b0071f04d3ffbb94f49fddd3ab666.png" alt="Portainer" height="50" /></a>
 <a href="https://www.proxmox.com/" target="_blank"><img style="margin: 10px" src="https://www.meteobridge.com/wiki/images/a/af/Proxmox-logo.png" alt="Proxmox" height="50" /></a>
