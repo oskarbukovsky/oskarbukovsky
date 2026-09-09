@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/56ce69d0-a70b-467b-8e3e-755d12885ba8)
 
 ### Github stats
-![languages](https://github-readme-stats.vercel.app/api/top-langs?username=oskarbukovsky&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![languages](https://github-stats-extended.vercel.app/api/top-langs?username=oskarbukovsky&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ### Languages
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
@@ -31,7 +31,7 @@
 <a href="https://www.proxmox.com/" target="_blank"><img style="margin: 10px" src="https://www.meteobridge.com/wiki/images/a/af/Proxmox-logo.png" alt="Proxmox" height="50" /></a>
 
 ### Trophies
-![profile-badges](https://gh-trophy.cdnsoft.net/?username=oskarbukovsky&rank=-?&no-bg=true&theme=onedark&margin-w=10)
+![profile-badges](https://github-profile-trophy-unserori.vercel.app/?username=oskarbukovsky&rank=-?&no-bg=true&theme=onedark&margin-w=10)
 
 ### Support
 [![ko-fi-image](https://github.com/user-attachments/assets/65aca8c5-829a-4ec7-9e19-9f53cf4fa455)](https://ko-fi.com/juunikorn)
